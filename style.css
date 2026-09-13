@@ -10,3 +10,8 @@ color: #000000;
  h1 {
   text-align: center;
  }
+
+ img {
+  border: 5px solid #114205;
+  border-radius: 4px;
+ }
