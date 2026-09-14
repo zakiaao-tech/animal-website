@@ -1,0 +1,17 @@
+body {
+background-color: lightblue;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+}
+
+ h1 {
+  text-align: center;
+ }
+
+ img {
+  border: 5px solid #114205;
+  border-radius: 4px;
+ }
